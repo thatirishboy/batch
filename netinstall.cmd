@@ -1,0 +1,1 @@
+Dism /online /enable-feature /featurename:NetFX3 /All /Source:c:\windows\winsxs /LimitAccess
